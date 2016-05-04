@@ -1,0 +1,8 @@
+C:\Anthem\AnthemProviderMgmtSvc\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+C:\Anthem\AnthemProviderMgmtSvc\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Anthem\AnthemProviderMgmtSvc\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Anthem\AnthemProviderMgmtSvc\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Anthem\AnthemProviderMgmtSvc\ServiceHost\bin\Debug\AnthemProviderMgmtSvc.dll
+C:\Anthem\AnthemProviderMgmtSvc\ServiceHost\bin\Debug\AnthemProviderMgmtSvc.pdb
+C:\Anthem\AnthemProviderMgmtSvc\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Anthem\AnthemProviderMgmtSvc\ServiceHost\obj\Debug\ServiceHost.pdb

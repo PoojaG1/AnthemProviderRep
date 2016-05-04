@@ -1,0 +1,6 @@
+C:\Anthem\AnthemProviderMgmtSvc\AnthemProviderMgmtSvc\obj\Debug\AnthemProviderMgmtSvc.csprojResolveAssemblyReference.cache
+C:\Anthem\AnthemProviderMgmtSvc\AnthemProviderMgmtSvc\bin\AnthemProviderMgmtSvc.dll.config
+C:\Anthem\AnthemProviderMgmtSvc\AnthemProviderMgmtSvc\bin\AnthemProviderMgmtSvc.dll
+C:\Anthem\AnthemProviderMgmtSvc\AnthemProviderMgmtSvc\bin\AnthemProviderMgmtSvc.pdb
+C:\Anthem\AnthemProviderMgmtSvc\AnthemProviderMgmtSvc\obj\Debug\AnthemProviderMgmtSvc.dll
+C:\Anthem\AnthemProviderMgmtSvc\AnthemProviderMgmtSvc\obj\Debug\AnthemProviderMgmtSvc.pdb
